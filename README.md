@@ -1,4 +1,5 @@
 # Lab_3.disctret.2023
+Діаграма станів:
 
 ![image](https://github.com/vbronetskyi/Lab_3.disctret.2023/assets/116158735/24efdf24-977e-44bc-8a07-74b07b7f3857)
 
@@ -16,6 +17,7 @@ Play до Sleep: після випадкової події та о 22:00 год
 Ця діаграма допомагає візуалізувати переходи між станами та зрозуміти модель дня життя за допомогою скінченних автоматів.
 
 Приклади виконання коду:
+
 1)
 ![image](https://github.com/vbronetskyi/Lab_3.disctret.2023/assets/116158735/e56bc9cf-f195-4639-a237-cfaabec8bb39)
 
