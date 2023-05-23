@@ -26,3 +26,6 @@ Play до Sleep: після випадкової події та о 22:00 год
 
 3)
 ![image](https://github.com/vbronetskyi/Lab_3.disctret.2023/assets/116158735/4397b8ed-0636-4478-bf61-b98f45d179ca)
+
+
+У файлику finite_automaton.py наявна реалізація коду та його детальний опис.
